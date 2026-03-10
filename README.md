@@ -1,35 +1,24 @@
-# my-computer-vision
+# My Computer Vision
 
-A learning project focused on computer vision techniques.
+## Introduction
+This project is a learning endeavor focused on computer vision techniques and applications.
 
 ## Features
-- Implement various computer vision algorithms
-- Hands-on examples and tutorials
+- Basic image processing functionalities
+- Object detection and recognition
+- Image classification
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
+## Tech Stack
+- Python
 - OpenCV
+- NumPy
+- Matplotlib
 
-### Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/my-computer-vision.git
-   cd my-computer-vision
-   ```
-2. Install required packages
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-To run the examples:
-```bash
-python example.py
-```
+## Usage
+1. Clone the repository using `git clone <repo-url>`.
+2. Install the required packages with `pip install -r requirements.txt`.
+3. Run the main script to start the application.
 
 ## Future Plans
-- Explore deep learning techniques in computer vision
-- Add more examples and tutorials
+- Implement more advanced algorithms.
+- Create a web interface for easier access.
